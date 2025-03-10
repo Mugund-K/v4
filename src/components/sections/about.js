@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'Quantum Computers', 'PyTorch', 'LLM', 'ML / DL', 'PySpark', 'Apache Ray', 'Apache Airflow', 'AWS'];
+  const skills = ['Python', 'Quantum Computers', 'PyTorch', 'LLM', 'ML / DL', 'PySpark', 'Apache Ray', 'Apache Airflow', 'AWS', 'Postgres/Redshift'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -142,7 +142,7 @@ const About = () => {
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
               <a href="https://www.talentneuron.com/">a global labor market intelligence organization</a>,{' '}
-              <a href="https://gartner.com/">a global research leader</a>,{' '}
+              <a href="https://gartner.com/">a global market research leader</a>,{' '}
               <a href="https://www.symantec.com/">a global security provider</a>, and{' '}
               <a href="https://wipro/">a large service organization</a>.My main focus these days is working on my research on optimizing LLM trainings at quantum computers.
             </p>
