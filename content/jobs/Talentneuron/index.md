@@ -1,6 +1,6 @@
 ---
 date: '2023-10-18'
-title: 'Lead Software Engineer - ML Engineering Team '
+title: 'Lead Software Engineer - ML Engineering Team'
 company: 'TalentNeuron'
 location: 'Chennai, IN'
 range: 'Oct 2023 - Present'
