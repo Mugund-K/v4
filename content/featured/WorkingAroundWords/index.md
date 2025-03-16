@@ -12,4 +12,4 @@ tech:
   - Literature
 ---
 
-Three young IT professionals talk about their venture Panuval, which is more an artistic space than just a bookstore
+Three young IT professionals talk about their venture Panuval, which is more an artistic space than just a bookstore.
