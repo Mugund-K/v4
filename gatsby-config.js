@@ -2,9 +2,9 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Brittany Chiang',
+    title: 'Mugund K',
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+      'Mugund is an ML Engineer specializing in developing (and occasionally optimizing) advanced artificial intelligence systems. Currently focused on building machine learning solutions at TalentNeuron while pursuing my PhD research on optimizing Large Language Model training using quantum computing techniques',
     siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Brittany Chiang',
-        short_name: 'Brittany Chiang',
+        name: 'Mugund K',
+        short_name: 'Mugund K',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
