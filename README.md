@@ -53,7 +53,7 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [br
    yarn
    ```
 
-4. Start the development server
+4. Start the development server.
 
    ```sh
    npm start
