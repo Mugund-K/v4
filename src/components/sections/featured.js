@@ -322,6 +322,7 @@ const Featured = () => {
               tech
               github
               external
+              cta
             }
             html
           }
@@ -354,7 +355,7 @@ const Featured = () => {
         {featuredProjects &&
           featuredProjects.map(({ node }, i) => {
             const { frontmatter, html } = node;
-            const { external, title, tech, github, cover, cta } = frontmatter;
+            const { external, title, tech, github, cover, cta = '' } = frontmatter;
             const image = getImage(cover);
 
             return (
