@@ -1,15 +1,15 @@
 ---
 date: '1'
-title: 'Working around words'
-cover: './panuval_team.png'
-external: 'https://www.thehindu.com/features/metroplus/working-around-words/article7003451.ece'
-cta: 'https://www.thehindu.com/features/metroplus/working-around-words/article7003451.ece'
+title: 'Halcyon Theme'
+cover: './halcyon.png'
+github: 'https://github.com/bchiang7/halcyon-site'
+external: 'https://halcyon-theme.netlify.com/'
 tech:
-  - Panuval
-  - BookStore
-  - Thiruvanmiyur
-  - Tamil
-  - Literature
+  - VS Code
+  - Sublime Text
+  - Atom
+  - iTerm2
+  - Hyper
 ---
 
-Three young IT professionals talk about their venture Panuval, which is more an artistic space than just a bookstore.
+A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
