@@ -1,15 +1,14 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Top 10 Youngsters of TN - 2004'
+cover: './top_ten.png'
+github: 'https://mugund.in'
+external: 'https://mugund.in/'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Panuval
+  - Top 10 Youngsters Award
+  - BookStore
+  - Thiruvanmiyur
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+In Kungumam Magazine's "2014 Promising Youngsters" list, Thanks to Panuval.
