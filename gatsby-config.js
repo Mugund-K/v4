@@ -5,9 +5,9 @@ module.exports = {
     title: 'Mugund K',
     description:
       'Mugund is an ML Engineer specializing in developing (and occasionally optimizing) advanced artificial intelligence systems. Currently focused on building machine learning solutions at TalentNeuron while pursuing my PhD research on optimizing Large Language Model training using quantum computing techniques',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://mugund.in', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@k.mugund',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
