@@ -2,8 +2,8 @@
 date: '3'
 title: 'Planting hope'
 cover: './planting_hope.png'
-github: 'https://www.thehindu.com/features/metroplus/planting-hope/article2139035.ece'
 external: 'https://www.thehindu.com/features/metroplus/planting-hope/article2139035.ece'
+cta: 'https://www.thehindu.com/features/metroplus/planting-hope/article2139035.ece'
 tech:
   - Vazhai
   - NGO

@@ -2,8 +2,8 @@
 date: '1'
 title: 'Working around words'
 cover: './panuval_team.png'
-github: 'https://www.thehindu.com/features/metroplus/working-around-words/article7003451.ece'
 external: 'https://www.thehindu.com/features/metroplus/working-around-words/article7003451.ece'
+cta: 'https://www.thehindu.com/features/metroplus/working-around-words/article7003451.ece'
 tech:
   - Panuval
   - BookStore
